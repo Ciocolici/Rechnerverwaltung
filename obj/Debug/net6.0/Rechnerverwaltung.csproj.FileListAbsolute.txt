@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\bin\Debug\net6.0\Rechnerverwaltung.exe
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\bin\Debug\net6.0\Rechnerverwaltung.deps.json
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\bin\Debug\net6.0\Rechnerverwaltung.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\bin\Debug\net6.0\Rechnerverwaltung.dll
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\bin\Debug\net6.0\Rechnerverwaltung.pdb
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\obj\Debug\net6.0\Rechnerverwaltung.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\obj\Debug\net6.0\Rechnerverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\obj\Debug\net6.0\Rechnerverwaltung.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\obj\Debug\net6.0\Rechnerverwaltung.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\obj\Debug\net6.0\Rechnerverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\obj\Debug\net6.0\Rechnerverwaltung.dll
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\obj\Debug\net6.0\refint\Rechnerverwaltung.dll
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\obj\Debug\net6.0\Rechnerverwaltung.pdb
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\obj\Debug\net6.0\Rechnerverwaltung.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Rechnerverwaltung\obj\Debug\net6.0\ref\Rechnerverwaltung.dll
