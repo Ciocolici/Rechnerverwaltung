@@ -26,7 +26,7 @@ This is an educational exercise project and does not contain a direct executable
 You can open and run the solution by loading  
 `Rechnerverwaltung.sln` in Visual Studio.
 
-> **Note**: German language used in console output.
+> **Note**: German language used.
 
 ---
 
